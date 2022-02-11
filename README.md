@@ -1,5 +1,5 @@
 # Latihan-Node-4
-Studi Kasus #3: CRUD (POST - GET - PUT - DELETE) NodeJS dengan MongoDB + Express
+Studi Kasus #4: CRUD (POST - GET - PUT - DELETE) NodeJS dengan MongoDB + Express
 
 ## Additional Requirement
 - `MongoDB` >= 4.4.4 (Community Server)
