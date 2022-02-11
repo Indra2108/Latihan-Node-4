@@ -1,0 +1,11 @@
+{
+  "name": "tugascrud-tugas4",
+  "version": "1.0.0",
+  "description": "Untuk melengkapi tugas sebelumnya",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Indra Damar Jati <marda.nee@pm.me>",
+  "license": "MIT"
+}
