@@ -7,5 +7,9 @@
     "test": "nodemon index.js"
   },
   "author": "Indra Damar Jati <marda.nee@pm.me>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  }
 }
